@@ -40,18 +40,16 @@
 </div>
 **Thanks for visiting my profile!**  
 *I'm always open to networking and exploring new opportunities. Feel free to reach out!*
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
-</div>
+
+![Postman Badge](https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png)
+![Badge 1](https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/1.png)
+![Badge 2](https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/2.png)
+![Badge 3](https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/3.png)
+![Badge 4](https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/4.png)
+![Badge 5](https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/5.png)
+![Badge 6](https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/6.png)
+![Badge 7](https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/7.png)
+![Badge 8](https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/8.png)
 
 </div>
 <!---
