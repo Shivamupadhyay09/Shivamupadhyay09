@@ -54,8 +54,8 @@
             transform: scale(1.1);
         }
         .icon-container img {
-            width: 20px; /* Adjusted size for smaller icons */
-            height: 20px;
+            width: 4px; /* Adjusted size for smaller icons */
+            height: 4px;
         }
     </style>
 </head>
