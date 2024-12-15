@@ -49,19 +49,14 @@
         .icon-container a {
             text-decoration: none;
             color: #333;
-            font-size: 12px; /* Text below icons */
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            transition: transform 0.2s ease, color 0.3s ease;
+            transition: transform 0.2s ease;
         }
         .icon-container a:hover {
             transform: scale(1.1);
-            color: #0073e6;
         }
         .icon-container img {
-            width: 20px; /* Small size for icons */
-            height: 20px;
+            width: 24px; /* Small size for icons */
+            height: 24px;
         }
     </style>
 </head>
@@ -86,8 +81,6 @@
     </div>
 </body>
 </html>
-
-
 
 ---
 </div>
