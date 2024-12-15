@@ -30,23 +30,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Social Links with Icons</title>
+    <title>Social Links with Small Icons</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             text-align: center;
             background-color: #f4f4f4;
             margin: 0;
-            padding: 20px;
+            padding: 10px;
         }
         h1 {
-            margin-bottom: 20px;
+            margin-bottom: 15px;
+            font-size: 18px;
         }
         .icon-container {
             display: flex;
             justify-content: center;
             align-items: center;
-            gap: 15px;
+            gap: 8px; /* Reduced spacing */
             flex-wrap: wrap;
         }
         .icon-container a {
@@ -55,17 +56,17 @@
             align-items: center;
             text-decoration: none;
             color: #333;
-            font-size: 14px;
-            transition: transform 0.3s ease, color 0.3s ease;
+            font-size: 10px; /* Smaller text size */
+            transition: transform 0.2s ease, color 0.3s ease;
         }
         .icon-container a:hover {
             transform: scale(1.1);
             color: #0073e6;
         }
         .icon-container img {
-            width: 32px;
-            height: 32px;
-            margin-bottom: 5px;
+            width: 16px; /* Reduced size */
+            height: 16px;
+            margin-bottom: 2px; /* Minimal gap */
         }
     </style>
 </head>
