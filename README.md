@@ -12,7 +12,7 @@
 - 📫 You can reach me at:- [shivamupadhyay9451@gmail.com]
 - 📫 <span style="color:yellow;">**Let's Connect!**</span>
 
-  - [![LinkedIn](https://www.linkedin.com/in/shivam-upadhyay-00011a314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](link_to_linkedin_profile)
+  - [![LinkedIn](https://www.linkedin.com/in/shivamupadhyay09/)](link_to_linkedin_profile)
   - [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white&style=flat-square)](link_to_hackerrank_profile)
   - [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?logo=codechef&logoColor=white&style=flat-square)](link_to_codechef_profile)
   - [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat-square)](link_to_leetcode_profile)
