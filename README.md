@@ -12,10 +12,6 @@
 - 📫 You can reach me at:- [shivamupadhyay9451@gmail.com]
 - 📫 <span style="color:yellow;">**Let's Connect!**</span>
 
-  - [![LinkedIn](https://www.linkedin.com/in/shivamupadhyay09)](link_to_linkedin_profile)
-  - [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?logo=hackerrank&logoColor=white&style=flat-square)](link_to_hackerrank_profile)
-  - [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?logo=codechef&logoColor=white&style=flat-square)](link_to_codechef_profile)
-  - [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat-square)](link_to_leetcode_profile)
 
 ---
 
@@ -28,8 +24,62 @@
     <img src="https://img.shields.io/badge/RESTAPI-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="20" />
     <img src="https://img.shields.io/badge/Java-1572B6?style=flat&logo=css3&logoColor=pink" alt="CSS3" height="20" />
     <img src="https://img.shields.io/badge/SQL-1572B6?style=plastic&logo=css3&logoColor=green" alt="CSS3" height="20" />
-
 </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Social Links with Icons</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+        }
+        .icon-container {
+            margin: 20px auto;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+        .icon-container a {
+            text-decoration: none;
+            color: #000;
+            font-size: 24px;
+            transition: transform 0.2s;
+        }
+        .icon-container a:hover {
+            transform: scale(1.2);
+        }
+        .icon-container img {
+            width: 40px;
+            height: 40px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Connect with Me</h1>
+    <div class="icon-container">
+        <a href="https://github.com/yourusername" target="_blank" title="GitHub">
+            <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub">
+        </a>
+        <a href="https://www.linkedin.com/in/yourusername/" target="_blank" title="LinkedIn">
+            <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn">
+        </a>
+        <a href="https://www.hackerrank.com/yourusername" target="_blank" title="HackerRank">
+            <img src="https://cdn-icons-png.flaticon.com/512/2111/2111615.png" alt="HackerRank">
+        </a>
+        <a href="https://www.codechef.com/users/yourusername" target="_blank" title="CodeChef">
+            <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="CodeChef">
+        </a>
+        <a href="https://codeforces.com/profile/yourusername" target="_blank" title="Codeforces">
+            <img src="https://cdn-icons-png.flaticon.com/512/5969/5969367.png" alt="Codeforces">
+        </a>
+    </div>
+</body>
+</html>
+
 
 ---
 </div>
