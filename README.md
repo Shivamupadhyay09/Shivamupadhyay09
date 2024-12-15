@@ -36,25 +36,36 @@
             font-family: Arial, sans-serif;
             text-align: center;
             background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            margin-bottom: 20px;
         }
         .icon-container {
-            margin: 20px auto;
             display: flex;
             justify-content: center;
-            gap: 20px;
+            align-items: center;
+            gap: 15px;
+            flex-wrap: wrap;
         }
         .icon-container a {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
             text-decoration: none;
-            color: #000;
-            font-size: 24px;
-            transition: transform 0.2s;
+            color: #333;
+            font-size: 14px;
+            transition: transform 0.3s ease, color 0.3s ease;
         }
         .icon-container a:hover {
-            transform: scale(1.2);
+            transform: scale(1.1);
+            color: #0073e6;
         }
         .icon-container img {
-            width: 40px;
-            height: 40px;
+            width: 32px;
+            height: 32px;
+            margin-bottom: 5px;
         }
     </style>
 </head>
@@ -63,22 +74,28 @@
     <div class="icon-container">
         <a href="https://github.com/yourusername" target="_blank" title="GitHub">
             <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub">
+            GitHub
         </a>
         <a href="https://www.linkedin.com/in/yourusername/" target="_blank" title="LinkedIn">
             <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn">
+            LinkedIn
         </a>
         <a href="https://www.hackerrank.com/yourusername" target="_blank" title="HackerRank">
             <img src="https://cdn-icons-png.flaticon.com/512/2111/2111615.png" alt="HackerRank">
+            HackerRank
         </a>
         <a href="https://www.codechef.com/users/yourusername" target="_blank" title="CodeChef">
             <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="CodeChef">
+            CodeChef
         </a>
         <a href="https://codeforces.com/profile/yourusername" target="_blank" title="Codeforces">
             <img src="https://cdn-icons-png.flaticon.com/512/5969/5969367.png" alt="Codeforces">
+            Codeforces
         </a>
     </div>
 </body>
 </html>
+
 
 
 ---
