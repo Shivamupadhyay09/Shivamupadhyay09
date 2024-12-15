@@ -43,20 +43,19 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            gap: 15px; /* Space between icons */
+            gap: 10px; /* Space between icons */
             margin: 20px 0;
         }
         .icon-container a {
             text-decoration: none;
-            color: #333;
             transition: transform 0.2s ease;
         }
         .icon-container a:hover {
             transform: scale(1.1);
         }
         .icon-container img {
-            width: 24px; /* Small size for icons */
-            height: 24px;
+            width: 20px; /* Adjusted size for smaller icons */
+            height: 20px;
         }
     </style>
 </head>
@@ -75,12 +74,13 @@
         <a href="https://www.codechef.com/users/yourusername" target="_blank" title="CodeChef">
             <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="CodeChef">
         </a>
-        <a href="https://codeforces.com/profile/yourusername" target="_blank" title="Codeforces">
-            <img src="https://cdn-icons-png.flaticon.com/512/5969/5969367.png" alt="Codeforces">
+        <a href="https://leetcode.com/yourusername" target="_blank" title="LeetCode">
+            <img src="https://cdn-icons-png.flaticon.com/512/6124/6124995.png" alt="LeetCode">
         </a>
     </div>
 </body>
 </html>
+
 
 ---
 </div>
