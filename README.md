@@ -30,7 +30,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Social Links with Small Icons</title>
+    <title>Social Links in One Row</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -39,24 +39,20 @@
             margin: 0;
             padding: 10px;
         }
-        h1 {
-            margin-bottom: 15px;
-            font-size: 18px;
-        }
         .icon-container {
             display: flex;
             justify-content: center;
             align-items: center;
-            gap: 8px; /* Reduced spacing */
-            flex-wrap: wrap;
+            gap: 15px; /* Space between icons */
+            margin: 20px 0;
         }
         .icon-container a {
+            text-decoration: none;
+            color: #333;
+            font-size: 12px; /* Text below icons */
             display: flex;
             flex-direction: column;
             align-items: center;
-            text-decoration: none;
-            color: #333;
-            font-size: 10px; /* Smaller text size */
             transition: transform 0.2s ease, color 0.3s ease;
         }
         .icon-container a:hover {
@@ -64,9 +60,8 @@
             color: #0073e6;
         }
         .icon-container img {
-            width: 16px; /* Reduced size */
-            height: 16px;
-            margin-bottom: 2px; /* Minimal gap */
+            width: 20px; /* Small size for icons */
+            height: 20px;
         }
     </style>
 </head>
@@ -75,23 +70,18 @@
     <div class="icon-container">
         <a href="https://github.com/yourusername" target="_blank" title="GitHub">
             <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub">
-            GitHub
         </a>
         <a href="https://www.linkedin.com/in/yourusername/" target="_blank" title="LinkedIn">
             <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn">
-            LinkedIn
         </a>
         <a href="https://www.hackerrank.com/yourusername" target="_blank" title="HackerRank">
             <img src="https://cdn-icons-png.flaticon.com/512/2111/2111615.png" alt="HackerRank">
-            HackerRank
         </a>
         <a href="https://www.codechef.com/users/yourusername" target="_blank" title="CodeChef">
             <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="CodeChef">
-            CodeChef
         </a>
         <a href="https://codeforces.com/profile/yourusername" target="_blank" title="Codeforces">
             <img src="https://cdn-icons-png.flaticon.com/512/5969/5969367.png" alt="Codeforces">
-            Codeforces
         </a>
     </div>
 </body>
